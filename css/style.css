@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+	background-color: #F4F4F4;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.nav-image {
+	max-width:200px;
+	max-height:300px;
+}
